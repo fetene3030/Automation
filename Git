@@ -1,0 +1,18 @@
+What is Git
+-----------
+
+Git hase public and private re
+
+
+--git sve file not folder 
+---commit save in repositary 
+-- git is working by sveing curret file into snapshot is called commits
+--- commit it can have one or more file changes 
+--- commite is saved into timeline is called Branch
+--- git repostory normaly has at least one Branch( Master)
+---- by default that branch called master 
+									-----
+?????? what to make notepade++ default editor for Git 
+????/ P4Merge Downlods
+
+**Git is the source control tool used in this course. While Jenkins supports many other control control tools, Git is the most popular these days.
